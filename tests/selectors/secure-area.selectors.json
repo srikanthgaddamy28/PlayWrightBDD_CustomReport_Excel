@@ -1,0 +1,6 @@
+{
+    "flashMessage": "#flash",
+    "pageHeading": "#content h2",
+    "description": "#content .subheader",
+    "actionButton": ".button.secondary.radius"
+}

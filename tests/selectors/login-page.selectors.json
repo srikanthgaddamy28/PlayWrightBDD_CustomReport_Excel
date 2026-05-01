@@ -1,0 +1,8 @@
+{
+  "heading": "h2",
+  "usernameInput": "#username",
+  "passwordInput": "#password",
+  "loginButton": "button[type=\"submit\"]",
+  "flashMessage": "#flash",
+  "secureArea": "#content"
+}
